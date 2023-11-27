@@ -3,6 +3,8 @@
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,https://bstvcdn.ballbar.net/jade_twn/playlist-15.m3u8a?t=1701083394&token=322aa985793a8ecfb37a387964dd6b36
+翡翠台,https://ushls.ballbar.net/jade_twn/playlist-15.m3u8a?t=1701084758&token=ab19bca9e56382ac24e1611fb0104490
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 J2,http://r.jdshipin.com/ndGgS
 J2,http://r.jdshipin.com/Nr5jq
