@@ -3,45 +3,37 @@
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/62WM7
-明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
-J2,http://r.jdshipin.com/ndGgS
 J2,http://r.jdshipin.com/Nr5jq
+J2,http://r.jdshipin.com/ndGgS
 J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
-TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
-TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
+TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
+明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 TVBS歡樂台,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
 TVBS歡樂台,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-广东卫视,https://tv.iill.top/cqyx/guangdongHD
 广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 广东4k,http://113.117.74.17:8081/hls/145/index.m3u8
 广东卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001032/index.m3u8?love=freedom
 广东卫视,http://113.117.74.17:8081/hls/140/index.m3u8
+广东卫视,https://tv.iill.top/cqyx/guangdongHD
+VIU TV,http://r.jdshipin.com/vSJvl
+ViuTV6,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 「HK」无线新闻,https://tv.iill.top/tvb/4
 「HK」无线财经体育资讯台,https://tv.iill.top/tvb/6
 「HK」事件直播頻道1,https://tv.iill.top/tvb/8
 「HK」事件直播頻道2,https://tv.iill.top/tvb/10
-「HK」VIU TV,http://r.jdshipin.com/vSJvl
 「HK」凤凰中文,http://113.117.74.17:8081/hls/37/index.m3u8
 「HK」凤凰资讯,http://113.117.74.18:8081/hls/36/index.m3u8
 「HK」凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
 「HK」星河台,http://113.117.74.17:8081/hls/135/index.m3u8
 Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 CCTV16 4K,https://tv.iill.top/bestv/cctv164k
 CCTV 4K,https://tv.iill.top/bestv/cctv4k
 欢笑剧场 4k,https://tv.iill.top/bestv/hxjc4k
-影视 4K「移动」,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-8K测试「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-爱上4K 「IPV6」,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-4K 修复「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 BesTV 4K 「IPV6」,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-纯享 4K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-纯享 4K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
-SiTV欢笑剧场4K 「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-华数4K「IPV6」,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 CCTV,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
 CCTV,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
@@ -219,17 +211,6 @@ CGTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/ind
 「陕西」紫阳综合「IPV6」,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227002/index.m3u8
 「陕西」FGTV 1「IPV6」,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 「陕西」佛坪电视台「IPV6」,http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-BesTV-1「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001148/index.m3u8?love=freedom
-BesTV-2「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001149/index.m3u8?love=freedom
-BesTV-3「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001150/index.m3u8?love=freedom
-BesTV-4「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001151/index.m3u8?love=freedom
-BesTV-5「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001152/index.m3u8?love=freedom
-BesTV-6「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001153/index.m3u8?love=freedom
-BesTV-7「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001154/index.m3u8?love=freedom
-BesTV-8「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001359/index.m3u8?love=freedom
-BesTV-9「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001378/index.m3u8?love=freedom
-BesTV-10「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001388/index.m3u8?love=freedom
-BesTV-11「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001398/index.m3u8?love=freedom
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
@@ -267,12 +248,6 @@ HTB NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
 半岛新闻「英语」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 KBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 KANSAI NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-东森幼幼歌曲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-小猪佩奇「动画」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-动画1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-动画2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-儿童歌曲1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-儿童歌曲2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 香港国际财经,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
@@ -303,7 +278,6 @@ RTHK32,http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MBCB445532294455322
 SkySportsCricket,http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
 TLC旅遊生活,http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 TV8,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-ViuTV6,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 阿里郎 Arirang,http://50.7.238.114:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
 愛爾達體育1台,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 愛爾達體育1台,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
