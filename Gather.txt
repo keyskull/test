@@ -19,6 +19,7 @@ VIU TV,http://r.jdshipin.com/vSJvl
 ViuTV6,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
+「MO」澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
 「HK」无线新闻,https://tv.iill.top/tvb/4
 「HK」无线财经体育资讯台,https://tv.iill.top/tvb/6
 「HK」事件直播頻道1,https://tv.iill.top/tvb/8
@@ -360,7 +361,6 @@ Red Bull TV「体育」,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/m
 CCTV 4K,http://113.117.74.17:8081/hls/144/index.m3u8
 广东经济科教,http://113.117.74.17:8081/hls/66/index.m3u8
 大湾区卫视,http://113.117.74.17:8081/hls/80/index.m3u8
-「MO」澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
