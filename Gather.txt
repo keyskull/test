@@ -1,5 +1,7 @@
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+翡翠台,http://r.jdshipin.com/GeWKr?id=fct406
+翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/62WM7
@@ -9,11 +11,15 @@ J2,http://r.jdshipin.com/ndGgS
 J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,http://r.jdshipin.com/Nr5jq
+明珠台,http://r.jdshipin.com/ndGgS
 明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8?zgangd
+明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
 广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 广东珠江,http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=79&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+广东珠江,http://r.jdshipin.com/sE5vO
 广东4k,http://113.117.74.17:8081/hls/145/index.m3u8
 广东卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001032/index.m3u8?love=freedom
 广东卫视,http://113.117.74.17:8081/hls/140/index.m3u8
@@ -23,6 +29,7 @@ J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=192
 广东卫视,http://112.25.48.68/live/program/live/gdwshd/4000000/mnf.m3u8
 广东卫视,http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=43&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 广东卫视,http://222.71.90.218:8888/newlive/live/hls/23/live.m3u8
+广州影视,http://r.jdshipin.com/TcKr2
 VIU TV,http://r.jdshipin.com/vSJvl
 ViuTV6,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
